@@ -43,6 +43,3 @@ const String time2 = "02:50:30";
 const String time3 = "22:45:64";
 const String time4 = "3:56:86";
 const String time5 = "4:85:6";
-// const String Canada = "Canada";
-// const String Canada = "Canada";
-// const String Canada = "Canada";
