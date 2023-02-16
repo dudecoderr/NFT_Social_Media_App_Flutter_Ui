@@ -1,6 +1,6 @@
 # NFT Social Media Animation Ui
 
-#### Github Link : https://github.com/dudecoderr/Job_Finder_Animation-Ui_In_Flutter.git
+#### Github Link : https://github.com/dudecoderr/NFT_Social_Media_App_Flutter_Ui.git
 
 
 # Changelog
